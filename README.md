@@ -5,7 +5,7 @@ AI-written Python experiments: hands-free voice commands with Whisper, and a `py
 ## Contents
 
 - `background_listening.py` listens in the background and turns speech into screen actions: saying "next" clicks, saying "back" presses the left arrow. It uses OpenAI Whisper (local, `base` model) through `SpeechRecognition`, plus `pyaudio` and `pyautogui`. Based on [this Medium tutorial](https://medium.com/@dominique.heer/controlling-your-computer-with-voice-commands-by-using-openai-whisper-09c867c635b2). Untested beyond the original experiment.
-- `train_journey.py` is a [`pysentation`](https://github.com/mzhadigh/pysentation) demo deck: slides styled as train wagons to show off the module's keyboard navigation and `rich` formatting.
+- `train_journey.py` is the guide deck from the [`pysentation`](https://github.com/mimseyedi/pysentation) project (GPL-3.0): slides styled as train wagons that introduce the module's keyboard navigation and `rich` formatting.
 
 ## Run
 
