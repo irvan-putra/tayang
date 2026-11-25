@@ -16,6 +16,10 @@ pip install -r requirements.txt
 python background_listening.py
 ```
 
+## License
+
+GPL-3.0 - see [LICENSE](LICENSE). Licensed to match [`pysentation`](https://github.com/mimseyedi/pysentation) (GPL-3.0), whose guide deck `train_journey.py` reproduces; that deck remains the work of the pysentation authors.
+
 ## Authorship
 
 The code and documentation in this repository are AI-written. Irvan confirmed their AI-generated origin on 24 November 2026. This is an authorship disclosure, not a claim that he reviewed every file.
