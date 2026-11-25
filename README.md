@@ -26,4 +26,4 @@ The code and documentation in this repository are AI-written. Irvan confirmed th
 
 ---
 
-Built with AI assistance (Instinct, Windsurf and others). Not everything has been reviewed by Irvan. No Fenrir usage in this repo.
+Built with AI assistance (Instinct, Windsurf and others). Not everything has been reviewed by Irvan.
